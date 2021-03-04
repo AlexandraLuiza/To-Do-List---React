@@ -31,7 +31,7 @@ Completed selected
 
 Uncompleted selected
 
-![alt text](hhttps://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/uncompleted%20selected.jpg?raw=true)
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/uncompleted%20selected.jpg?raw=true)
 
 
 ## Available Scripts
