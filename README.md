@@ -2,6 +2,38 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Homepage
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/homepage.jpg?raw=true)
+
+Add to list
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/add%20to%20list.jpg?raw=true)
+
+Completed
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/completed.jpg?raw=true)
+
+Deleted
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/deleted.jpg?raw=true)
+
+
+Filter option
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/filter%20option.jpg?raw=true)
+
+
+Completed selected
+
+![alt text](https://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/completed%20selected.jpg?raw=true)
+
+
+Uncompleted selected
+
+![alt text](hhttps://github.com/AlexandraLuiza/To-Do-List---React/blob/master/screenshots/uncompleted%20selected.jpg?raw=true)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
